@@ -97,7 +97,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you have any questions or feedback, please contact:
 
-Your Name - yeswanthsoma83@example.com
+Your Name - yeswanthsoma83@gmail.com
 
 Project Link: [https://github.com/yourusername/smart-notes](https://github.com/yourusername/smart-notes)
 ```

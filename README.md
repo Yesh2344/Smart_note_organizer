@@ -101,7 +101,6 @@ Your Name - yeswanthsoma83@gmail.com
 
 Project Link: [https://github.com/yourusername/smart-notes](https://github.com/yourusername/smart-notes)
 ```
-
 This README provides a comprehensive guide for anyone who wants to use or contribute to the Smart Notes project. Remember to replace "yourusername" with your actual GitHub username and update the contact information before publishing the project.
 ```
 

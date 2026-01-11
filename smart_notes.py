@@ -74,6 +74,7 @@ sample_note = """# Introduction to Python
 
 Python is a high-level programming language that emphasizes code readability.
 
+# Added comment
 ## Key Features
 - Easy to learn
 - Large standard library

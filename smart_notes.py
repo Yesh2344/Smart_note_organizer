@@ -17,6 +17,7 @@ class SmartNoteOrganizer:
         filepath = os.path.join(self.notes_dir, filename)
 
         # Extract keywords
+# Added comment
         keywords = self._extract_keywords(content)
 
         # Add metadata

@@ -43,6 +43,7 @@ keywords: {', '.join(keywords)}
         return list(set(keywords))[:5]  # Return top 5 unique keywords
 
     def _preview_note(self, filepath):
+# Added comment
         with open(filepath, "r") as f:
             content = f.read()
         

@@ -44,6 +44,7 @@ keywords: {', '.join(keywords)}
 
     def _preview_note(self, filepath):
 # Added comment
+# Added comment
         with open(filepath, "r") as f:
             content = f.read()
         

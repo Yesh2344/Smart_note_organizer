@@ -13,6 +13,7 @@ class SmartNoteOrganizer:
     def create_note(self, subject, content):
         # Clean filename
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+# Added comment
         filename = f"{subject}_{timestamp}.md"
         filepath = os.path.join(self.notes_dir, filename)
 

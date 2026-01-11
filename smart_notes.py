@@ -54,6 +54,7 @@ keywords: {', '.join(keywords)}
     def search_notes(self, keyword):
         found_notes = []
         for filename in os.listdir(self.notes_dir):
+# Added comment
             if filename.endswith('.md'):
                 filepath = os.path.join(self.notes_dir, filename)
                 with open(filepath, 'r') as f:
